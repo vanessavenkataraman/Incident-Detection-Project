@@ -6,7 +6,7 @@
 ##### Additional dependencies: base64
 
 
-# # # # # # The heuristics used in this assignment to determine incidents are pretty decent because the functionality would be similar to a person reading live results through Wireshark.
+##### The heuristics used in this assignment to determine incidents are pretty decent because the functionality would be similar to a person reading live results through Wireshark.
 
 
 ##### If I had spare time in the future, I would investigate other ports that may be prone to incidents, not just the obvious ports.
